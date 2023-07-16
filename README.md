@@ -21,7 +21,9 @@ pip install PIL
 
 1. Clone or download the repository to your local machine.
 2. Navigate to the project directory.
-3. Run the following command to start the application:
+3. open robocoupler project.
+4. Run the following command to start the application:
+project2.1.py
 
 
 4. The GUI window will open, displaying the available accessories for Royal Enfield motorcycles.
