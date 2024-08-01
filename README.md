@@ -1,4 +1,11 @@
 ![robocoupler_home_page](https://github.com/user-attachments/assets/7003ef72-d34a-4294-829f-bb21081ad159)
+![Screenshot (162)](https://github.com/user-attachments/assets/ac1dc302-f9ac-4781-93ba-4ea21cb55f49)
+![Screenshot (161)](https://github.com/user-attachments/assets/9bcddc7b-be0d-436f-a915-d75990b707c8)
+
+https://github.com/user-attachments/assets/2509e138-6755-4c29-a419-c2e4e8b88cff
+
+
+
 # Automated Checkout System for Royal Enfield Accessories
 
 The "Automated Royal Enfield Accessories Checkout System" is a project designed to simplify the process of purchasing accessories for Royal Enfield motorcycles. The main goal of this system is to automatically calculate and fill in the total amount in the cart, making the checkout process faster and more convenient.
